@@ -55,10 +55,6 @@ class MainActivity : AppCompatActivity() {
         playerController.onDestroy()
     }
 
-    fun setControllerCallback(callback: (MediaController) -> Unit) {
-        callbacks.add(callback)
-    }
-
     private fun requestPermissions() {
         val permissions = listOf(
             Manifest.permission.FOREGROUND_SERVICE,

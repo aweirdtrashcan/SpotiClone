@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpotiClone</string>
+    <string name="notification_channel_name">"spoticlone_notification_channel_name"</string>
+    <string name="notification_channel_id">spoticlone_notification_channel_id</string>
+    <string name="the_song_album_image">The song\'s album image</string>
+    <string name="album_art">Album\'s art</string>
+    <string name="your_songs">Suas Músicas</string>
+    <string name="album_s_image">Imagem do Álbum</string>
+</resources>
